@@ -1,0 +1,15 @@
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Operating System
+.DS_Store
+Thumbs.db
